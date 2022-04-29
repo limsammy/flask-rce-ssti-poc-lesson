@@ -10,8 +10,8 @@ While minor differences do exist between the various terminology, they are somew
 
 To briefly touch on the minor differences between an *RCE* attack and an *ACE* attack:
 
-* **Remote Code Execution:** This terminology infers that a bad actor can exploit a vulnerability to trigger arbitrary code execution *from a remote system* on the target application.
-* **Arbitrary Code Execution:** In contrast to aforementioned *remote code execution*, this terminology infers that a bad actor can exploit a vulnerability to trigger *any code* execution on the target application.
+* **Remote Code Execution:** This terminology infers that an attacker can exploit a vulnerability to trigger arbitrary code execution *from a remote system* on the target application. These attacks are typically conducted via the internet, WAN, or LAN.
+* **Arbitrary Code Execution:** In contrast to aforementioned *remote code execution*, this terminology infers that an attacker can exploit a vulnerability to trigger *any code* execution on the target application.
 
 > *Note that ACE excludes the term "remote" from it's phrasing, as it does not specify the origin of the code being executed. However generally speaking, arbitrary code execution will often leverage remote code execution, as well as the local code implementation of the application(s) running on the target system.*
 
