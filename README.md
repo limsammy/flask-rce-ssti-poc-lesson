@@ -1,4 +1,10 @@
-# Setup
+# Flask Remote-Code-Execution Proof of Concept and Lesson Plan
+
+## Lesson Plan
+
+[Click here](lesson_plan.md) to visit the lesson plan (or navigate to the `lesson_plan.md` file in the root project directory)
+
+## Local Setup
 
 1. Please install Python 3.9
 2. Once installed, install Flask via `pip install flask`
